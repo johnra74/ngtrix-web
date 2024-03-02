@@ -1,2 +1,2 @@
 # ngtrix-web
-ngtrix static web
+Ng-Trix can be played at https://ngtrix.jstrgames.com.
