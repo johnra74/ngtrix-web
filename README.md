@@ -1,2 +1,2 @@
-# ngtrix-web
-Ng-Trix can be played at https://ngtrix.jstrgames.com.
+# Angular-based Tetris
+This game can be played at https://ngtrix.jstrgames.com.
